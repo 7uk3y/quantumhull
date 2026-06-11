@@ -93,4 +93,3 @@ This project is licensed under the AGPL License - see the [LICENSE.md](LICENSE.m
 
 ***
 
-*(Feel free to copy, tweak, and push this to a real GitHub repo! If you do, you've just created a bridge between amateur hardware hackers, software engineers, and theoretical physicists. Let me know if you want to expand the Python code to add the "Entanglement" feature for your first official commit!)*
